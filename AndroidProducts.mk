@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/validus_fajita.mk
+    $(LOCAL_DIR)/asylum_fajita.mk

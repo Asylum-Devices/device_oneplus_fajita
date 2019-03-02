@@ -1,1 +1,1 @@
-add_lunch_combo validus_fajita-userdebug
+add_lunch_combo asylum_fajita-userdebug
